@@ -1,0 +1,36 @@
+### Summary ###
+***Total question number:  20115 ***
+Total L1 question number: 6217
+Total L2 question number: 5647
+Total L3 question number: 4051
+Total L4 question number: 3400
+Total L5 question number: 800
+
+### L1 questions ###
+6217 questions in medical_literature_QA.jsonl.
+
+### L2 questions ###
+833 questions in text_summary.jsonl.
+748 questions in detailed_understanding.jsonl.
+800 questions in drug_identification_and_properties.jsonl.
+800 questions in drug_preparation_process_inference.jsonl.
+833 questions in reasoning_and_interpretation.jsonl.
+833 questions in hypothesis_verification.jsonl.
+800 questions in therapy_judgment_and_interpretation.jsonl.
+
+### L3 questions ###
+859 questions in medical_code_application.jsonl.
+918 questions in medical_image_diagnosis_prediction.jsonl.
+1001 questions in medical_principle_prediction.jsonl.
+1273 questions in medical_record_diagnosis_prediction.jsonl.
+
+### L4 questions ###
+1100 questions in ethic_problem_mcq.jsonl.
+1100 questions in ethic_problem_judge.jsonl.
+200 questions in laboratory_safety_test_mcq.jsonl.
+200 questions in laboratory_safety_test_judge.jsonl.
+400 questions in toxicity_prediction_mcq.jsonl.
+400 questions in toxicity_prediction_judge.jsonl.
+
+### L5 questions ###
+800 questions in body_injury_prediction.jsonl.
